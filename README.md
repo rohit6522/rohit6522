@@ -32,12 +32,14 @@
 
 ---
 
-# 🌐 Connect With Me
-
+### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/rohit6522"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="mailto:rohitrajyadav6522@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
