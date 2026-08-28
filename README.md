@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
+<h1 align="center">Hi, I'm Rohit Kumar</h1>
 <h3 align="center">Full Stack Developer | Java Developer | B.Tech CSE Student at LPU</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 🎓 B.Tech Computer Science Student at Lovely Professional University (LPU)
 
