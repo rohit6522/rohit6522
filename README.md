@@ -24,11 +24,11 @@
 
 ## 🚀 Current Focus
 
-- 🌱 Spring Boot
-- ☕ Java
-- ⚛ React.js
-- 📚 Data Structures & Algorithms
-- 🤖 AI Projects
+-  Spring Boot
+-  Java
+-  React.js
+-  Data Structures & Algorithms
+-  AI Projects
 
 ---
 
@@ -125,4 +125,4 @@
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+<h3 align="center">Thanks for visiting my profile 🙌</h3>
