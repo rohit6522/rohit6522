@@ -113,16 +113,18 @@
 </p>
 ---
 
+---
+
 ## 📈 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=rohit6522&label=Profile+Views&color=0e75b6&style=flat"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohit6522&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 💡 Quote
 
 > "Code. Learn. Build. Repeat."
-
----
 
 <h3 align="center">Thanks for visiting my profile 🙌</h3>
