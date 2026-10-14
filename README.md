@@ -122,9 +122,13 @@ A hospital management and emergency assistance application designed to help user
 
 ## 👀 Profile Visitors
 
+
+<h2 align="center">👀 Profile Visitors</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohit6522&label=Profile%20Views&color=00C2FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rohit6522&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 ---
 
