@@ -57,38 +57,6 @@ I'm a Computer Science Engineering student at **Lovely Professional University (
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 FlixGenie — AI-Powered Movie Discovery Platform
-A movie discovery platform designed to help users explore and discover movies.
-
-- React.js and Redux
-- Firebase Authentication and Firestore
-- OMDb API integration
-
-🔗 [Live Demo](https://flixgenie-frontend.onrender.com) · [Source Code](https://github.com/rohit6522/FlixGenie)
-
-### 🚗 RYDEX — Real-Time Vehicle Booking Platform
-A vehicle booking application built around real-time interactions and online payments.
-
-- Next.js and MongoDB
-- Socket.io for real-time communication
-- Razorpay payment integration
-
-🔗 [Live Demo](https://rydex-eo9t.onrender.com) · [Source Code](https://github.com/rohit6522/vehicle-booking-app)
-
-### 🏥 Smart Hospital Emergency System
-A hospital management and emergency assistance application designed to help users find suitable nearby hospitals.
-
-- Spring Boot and MySQL backend
-- React-based frontend
-- Hospital proximity calculations and suitability scoring
-- Patient and ambulance management
-
-🔗 [Source Code](https://github.com/rohit6522/smart-hospital-emergency-system)
-
----
-
 ## 🎯 Current Focus
 
 - Deepening my knowledge of Java and Spring Boot.
