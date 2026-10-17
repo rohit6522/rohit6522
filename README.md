@@ -48,19 +48,36 @@ I am a B.Tech student who enjoys building web applications and learning new tech
 
 ---
 
-### 📊 GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit6522&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+## 📊 GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit6522&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit6522&layout=compact&theme=tokyonight&hide_border=true"
+          alt="Most Used Languages"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=rohit6522&show_icons=true&theme=tokyonight&hide_border=true"
+          alt="GitHub Statistics"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          src="https://streak-stats.demolab.com?user=rohit6522&theme=tokyonight&hide_border=true"
+          alt="GitHub Contribution Streak"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=rohit6522&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
 ---
 
