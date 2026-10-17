@@ -37,14 +37,17 @@ I am a B.Tech student who enjoys building web applications and learning new tech
 
 ---
 
-### 🚀 My Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🎬 FlixGenie | AI-powered movie discovery platform | React, Redux, Firebase, OMDb API |
-| 🚗 RYDEX | Real-time vehicle booking platform | Next.js, MongoDB, Socket.IO, Razorpay |
-| 💪 FitnessApp | Fitness and workout tracking platform | React, Node.js, MongoDB, JWT |
-| 🛒 SmartCart | Shopping budget tracker | React, Tailwind CSS, Node.js, MongoDB |
+## 🚀 My Projects
+
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| 🎬 [FlixGenie](https://github.com/rohit6522/FlixGenie) | AI-powered movie discovery platform | React, Redux, Firebase, OMDb API | [GitHub](https://github.com/rohit6522/FlixGenie) · [Live Demo](https://flixgenie-frontend.onrender.com) |
+| 🚗 [RYDEX](https://github.com/rohit6522/vehicle-booking-app) | Real-time vehicle booking platform | Next.js, MongoDB, Socket.IO, Razorpay | [GitHub](https://github.com/rohit6522/vehicle-booking-app) · [Live Demo](https://rydex-eo9t.onrender.com) |
+| 💪 FitnessApp | Fitness and workout tracking platform | React, Node.js, MongoDB, JWT | [Live Demo](https://fitnessapp-frontend-xiht.onrender.com) |
+| 🛒 [SmartCart](https://github.com/rohit6522/Shopping-budget-tracker) | Shopping budget tracker | React, Tailwind CSS, Node.js, MongoDB | [GitHub](https://github.com/rohit6522/Shopping-budget-tracker) |
+| 🏥 Smart Hospital Emergency System | Hospital and emergency management | Spring Boot, React, MySQL | [GitHub](https://github.com/rohit6522/smart-hospital-emergency-system) |
+
 
 ---
 
