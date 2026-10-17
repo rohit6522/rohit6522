@@ -1,111 +1,81 @@
-# Hi there, I'm Rohit Kumar 👋
+# Hi 👋, I'm Rohit Kumar
 
-### Full Stack Developer | Java Developer | B.Tech CSE @ LPU
+### 🚀 Software Developer | Full-Stack Developer | DSA Learner
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Enthusiast;React+%26+Next.js+Developer;DSA+%7C+Problem+Solving;Building+Projects+That+Matter" alt="Typing SVG" />
-</p>
+I am a B.Tech student who enjoys building web applications and learning new technologies.
 
-<p align="center">
-  <a href="https://portfolio-k6bd.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohit-kumar-382948324/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+- 🔭 Currently working on **FlixGenie** and **RYDEX**
+- 🌱 Learning **Java, Data Structures & Algorithms, and Backend Development**
+- 💻 Interested in **Full-Stack Development**
+- 🎯 Goal: Become a Software Engineer
+- 🌐 Portfolio: [rohitworks.dev](https://www.rohitworks.dev)
+- ⚡ Fun fact: I love turning ideas into working projects!
+
+---
+
+### 🤝 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/rohit6522">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.rohitworks.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=googlechrome" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🛠️ Languages and Tools
 
-I'm a Computer Science Engineering student at **Lovely Professional University (LPU)** who enjoys turning ideas into practical web applications.
-
-- 💻 Building full-stack web applications and real-world projects.
-- ☕ Strengthening my Java, Spring Boot, and backend development skills.
-- ⚛️ Working with React.js, Next.js, and modern frontend technologies.
-- 🧠 Practicing Data Structures and Algorithms for problem-solving and placements.
-- 🤖 Exploring AI-powered applications and intelligent features.
-- 🚀 Always learning, building, and improving.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cpp" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode" alt="My skills"/>
 </p>
 
-### Frontend Development
+---
+
+### 🚀 My Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🎬 FlixGenie | AI-powered movie discovery platform | React, Redux, Firebase, OMDb API |
+| 🚗 RYDEX | Real-time vehicle booking platform | Next.js, MongoDB, Socket.IO, Razorpay |
+| 💪 FitnessApp | Fitness and workout tracking platform | React, Node.js, MongoDB, JWT |
+| 🛒 SmartCart | Shopping budget tracker | React, Tailwind CSS, Node.js, MongoDB |
+
+---
+
+### 📊 GitHub Statistics
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap" alt="Frontend Technologies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit6522&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,firebase" alt="Backend and Database Technologies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit6522&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 </p>
 
-### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,docker" alt="Development Tools" />
+  <img src="https://streak-stats.demolab.com?user=rohit6522&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
+### 🐍 My Contribution Graph
 
-- Deepening my knowledge of Java and Spring Boot.
-- Improving DSA and problem-solving skills.
-- Building scalable full-stack applications.
-- Learning backend architecture, APIs, and database design.
-- Exploring practical AI integrations.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohit6522&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit6522&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit6522&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<p>
+  <img src="https://raw.githubusercontent.com/rohit6522/rohit6522/output/snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohit6522/rohit6522/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 👀 Profile Visitors
-
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohit6522&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
-
----
-
-## 💡 Developer's Motto
-
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! Let's connect and build something amazing. 🤝
+  <i>Keep learning, keep building, and keep growing.</i>
 </p>
