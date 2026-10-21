@@ -81,15 +81,6 @@ I am a B.Tech student who enjoys building web applications and learning new tech
   </table>
 </div>
 
-
----
-
-### 🐍 My Contribution Graph
-
-<p>
-  <img src="https://raw.githubusercontent.com/rohit6522/rohit6522/output/snake.svg" alt="Contribution Snake"/>
-</p>
-
 ---
 
 <p align="center">
