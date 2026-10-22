@@ -51,22 +51,13 @@ A project focused on shopping and budget tracking.
 
 ---
 
+
+
 ## 🛠️ Engineering Stack
 
-### ☕ Languages
-`Java` `JavaScript` `TypeScript` `Python` `C` `C++`
-
-### ⚛️ Frontend
-`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Vite`
-
-### ⚙️ Backend
-`Node.js` `Express` `Spring Boot` `REST APIs` `JWT`
-
-### 🗄️ Databases & Services
-`MongoDB` `MySQL` `Firebase` `Firestore`
-
-### 🔧 Tools
-`Git` `GitHub` `VS Code` `Postman`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,react,nextjs,html,css,tailwind,vite,nodejs,express,spring,mongodb,mysql,firebase,git,github,vscode,postman,vercel&perline=8" />
+</p>
 
 ---
 
