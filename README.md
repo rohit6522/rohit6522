@@ -30,7 +30,7 @@ I'm a B.Tech student who enjoys building **full-stack applications, interactive 
 <p align="center">
   <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png" height="32" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/rohit-kumar-382948324/"><img src="https://img.icons8.com/color/48/linkedin.png" height="32" alt="LinkedIn" /></a>
-  <a href="YOUR_TWITTER_PROFILE"><img src="https://img.icons8.com/color/48/twitter--v1.png" height="32" alt="Twitter" /></a>
+  <a href="https://x.com/MrRohit24916746"><img src="https://img.icons8.com/color/48/twitter--v1.png" height="32" alt="Twitter" /></a>
   <a href="YOUR_INSTAGRAM_PROFILE"><img src="https://img.icons8.com/fluency/48/instagram-new.png" height="32" alt="Instagram" /></a>
   <a href="https://rohitworks.dev"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="32" alt="Website" /></a>
 </p>
