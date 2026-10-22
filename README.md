@@ -2,57 +2,90 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Rohit Kumar — Software Developer focused on full-stack development, Java, and practical web applications." width="100%">
+    <img src="./dark.svg" alt="Rohit Kumar — Full-Stack Developer and B.Tech student interested in Java and web development" width="100%">
   </picture>
 </p>
 
-<h2>Hey, I'm Rohit 👋</h2>
+<h1 align="center">Hi, I'm Rohit Kumar 👋</h1>
 
-I'm a B.Tech student interested in software development, full-stack engineering, and building practical applications with clean, user-friendly interfaces. I'm also strengthening my Java and problem-solving fundamentals.
+<p align="center">
+  <b>Full-Stack Developer · Java Learner · Software Engineering Enthusiast</b>
+</p>
 
-## About
+<p align="center">
+  💻 React / Next.js &nbsp;·&nbsp; ⚙️ Node.js / Express &nbsp;·&nbsp; ☕ Java
+  &nbsp;·&nbsp; 🗄️ MongoDB &nbsp;·&nbsp; 🚀 Building practical web apps
+</p>
 
-- Building web applications with modern frontend and backend tools
-- Learning through hands-on projects and consistent coding practice
-- Interested in software engineering, full-stack development, and problem solving
+I'm a B.Tech student who enjoys building **full-stack applications, interactive user experiences, and practical software projects**. I'm also improving my Java, DSA, and problem-solving skills as I work toward becoming a stronger software engineer.
 
-## Featured Projects
+---
 
-### [FlixGenie](https://github.com/rohit6522/FlixGenie)
-AI-powered movie discovery platform built with React, Redux, Firebase Authentication, Firestore, and the OMDb API.
+## 💻 What I Build
 
-[Live demo](https://flixgenie-frontend.onrender.com)
+- ⚛️ **Full-stack applications** — React, Next.js, Node.js and TypeScript
+- ⚙️ **Backend APIs** — REST APIs, authentication and application workflows
+- 🗄️ **Database-driven products** — MongoDB, MySQL and Firebase
+- 🚀 **Interactive platforms** — responsive interfaces, dashboards and real-time features
+- ☕ **Java & DSA** — building fundamentals through consistent practice
 
-### [RYDEX — Vehicle Booking Platform](https://github.com/rohit6522/vehicle-booking-app)
-Real-time vehicle booking platform built with Next.js, MongoDB, Socket.io, and Razorpay.
+---
 
-[Live demo](https://rydex-eo9t.onrender.com)
+## 🧩 Featured Projects
 
-### [Smart Hospital Emergency System](https://github.com/rohit6522/smart-hospital-emergency-system)
-Hospital emergency management project with a React frontend and Spring Boot backend.
+### 🎬 [FlixGenie — AI-Powered Movie Discovery](https://github.com/rohit6522/FlixGenie)
+Movie discovery platform built with React, Redux, Firebase Authentication, Firestore and the OMDb API.
 
-### [Shopping Budget Tracker](https://github.com/rohit6522/Shopping-budget-tracker)
-A shopping and budget tracking project.
+[Live Demo](https://flixgenie-frontend.onrender.com)
 
-## Engineering Stack
+### 🚗 [RYDEX — Vehicle Booking Platform](https://github.com/rohit6522/vehicle-booking-app)
+Real-time vehicle booking platform built with Next.js, MongoDB, Socket.io and Razorpay.
 
-**Languages:** Java, JavaScript, TypeScript, Python, C, C++
+[Live Demo](https://rydex-eo9t.onrender.com)
 
-**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS, Vite
+### 🏥 [Smart Hospital Emergency System](https://github.com/rohit6522/smart-hospital-emergency-system)
+Hospital emergency management application with a React frontend and Spring Boot backend.
 
-**Backend:** Node.js, Express, Spring Boot
+### 🛒 [Shopping Budget Tracker](https://github.com/rohit6522/Shopping-budget-tracker)
+A project focused on shopping and budget tracking.
 
-**Databases / Services:** MongoDB, MySQL, Firebase, Firestore
+---
 
-**Tools:** Git, GitHub, VS Code
+## 🛠️ Engineering Stack
 
-## Connect
+### ☕ Languages
+`Java` `JavaScript` `TypeScript` `Python` `C` `C++`
 
-- **GitHub:** [@rohit6522](https://github.com/rohit6522)
-- **Portfolio:** [rohitworks.dev](https://www.rohitworks.dev)
+### ⚛️ Frontend
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Vite`
+
+### ⚙️ Backend
+`Node.js` `Express` `Spring Boot` `REST APIs` `JWT`
+
+### 🗄️ Databases & Services
+`MongoDB` `MySQL` `Firebase` `Firestore`
+
+### 🔧 Tools
+`Git` `GitHub` `VS Code` `Postman`
+
+---
+
+## 📌 Currently Improving
+
+- Java and data structures & algorithms
+- Problem-solving and coding interview skills
+- Backend development and system design fundamentals
+- Building polished, responsive full-stack applications
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 **Portfolio:** [rohitworks.dev](https://www.rohitworks.dev)
+- 💻 **GitHub:** [@rohit6522](https://github.com/rohit6522)
 
 ---
 
 <p align="center">
-  <i>Learning consistently. Building thoughtfully. Improving one commit at a time.</i>
+  <i>Keep learning. Keep building. Improve with every commit.</i>
 </p>
