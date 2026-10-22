@@ -21,59 +21,25 @@ I'm a B.Tech student who enjoys building **full-stack applications, interactive 
 
 ---
 
-## 💻 What I Build
 
-- ⚛️ **Full-stack applications** — React, Next.js, Node.js and TypeScript
-- ⚙️ **Backend APIs** — REST APIs, authentication and application workflows
-- 🗄️ **Database-driven products** — MongoDB, MySQL and Firebase
-- 🚀 **Interactive platforms** — responsive interfaces, dashboards and real-time features
-- ☕ **Java & DSA** — building fundamentals through consistent practice
-
----
-
-## 🧩 Featured Projects
-
-### 🎬 [FlixGenie — AI-Powered Movie Discovery](https://github.com/rohit6522/FlixGenie)
-Movie discovery platform built with React, Redux, Firebase Authentication, Firestore and the OMDb API.
-
-[Live Demo](https://flixgenie-frontend.onrender.com)
-
-### 🚗 [RYDEX — Vehicle Booking Platform](https://github.com/rohit6522/vehicle-booking-app)
-Real-time vehicle booking platform built with Next.js, MongoDB, Socket.io and Razorpay.
-
-[Live Demo](https://rydex-eo9t.onrender.com)
-
-### 🏥 [Smart Hospital Emergency System](https://github.com/rohit6522/smart-hospital-emergency-system)
-Hospital emergency management application with a React frontend and Spring Boot backend.
-
-### 🛒 [Shopping Budget Tracker](https://github.com/rohit6522/Shopping-budget-tracker)
-A project focused on shopping and budget tracking.
-
----
-
-
-
-## 🛠️ Engineering Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,react,nextjs,html,css,tailwind,vite,nodejs,express,spring,mongodb,mysql,firebase,git,github,vscode,postman,vercel&perline=8" />
+  <b>Let's get connected.</b>
 </p>
 
----
+<p align="center">
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png" height="32" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/rohit-kumar-382948324/"><img src="https://img.icons8.com/color/48/linkedin.png" height="32" alt="LinkedIn" /></a>
+  <a href="YOUR_TWITTER_PROFILE"><img src="https://img.icons8.com/color/48/twitter--v1.png" height="32" alt="Twitter" /></a>
+  <a href="YOUR_INSTAGRAM_PROFILE"><img src="https://img.icons8.com/fluency/48/instagram-new.png" height="32" alt="Instagram" /></a>
+  <a href="https://rohitworks.dev"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="32" alt="Website" /></a>
+</p>
 
-## 📌 Currently Improving
-
-- Java and data structures & algorithms
-- Problem-solving and coding interview skills
-- Backend development and system design fundamentals
-- Building polished, responsive full-stack applications
-
----
-
-## 📫 Connect With Me
-
-- 🌐 **Portfolio:** [rohitworks.dev](https://www.rohitworks.dev)
-- 💻 **GitHub:** [@rohit6522](https://github.com/rohit6522)
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit6522&theme=github_dark" alt="GitHub Stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit6522&theme=github_dark&utcOffset=5.5" alt="Productive Time (IST)" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit6522&theme=github_dark" alt="Top Languages" />
+</p>
 
 ---
 
