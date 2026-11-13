@@ -222,7 +222,7 @@
   <circle cx="88" cy="46" r="6" fill="#27c93f"/>
 
   <!-- Left Main Tab -->
-  <text x="114" y="50" class="font-mono label-cyan" font-size="14" font-weight="bold">vaibhav/README.md</text>
+  <text x="114" y="50" class="font-mono label-cyan" font-size="14" font-weight="bold">rohit/README.md</text>
 
   <!-- Top Right Nav Tabs -->
   <g class="font-mono dim-cyan" font-size="11.5" opacity="0.8">
